@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Awadhesh Sharma!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Graduate;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
-🎓 **Computer Science Engineering Student** with a passion for creating innovative solutions  
-🚀 **AI/ML Enthusiast** building real-world applications that make a difference  
+🎓 **Computer Science Engineering Graduate** (June 2025) with expertise in innovative solutions  
+🚀 **AI/ML Specialist** building real-world applications that make a difference  
 🔧 **Full Stack Developer** specializing in Python, Web Development, and AI-driven projects  
 💡 **Problem Solver** who loves turning complex challenges into elegant solutions  
 
@@ -91,6 +91,7 @@
 
 - 🌱 Exploring **Advanced Machine Learning** and **Deep Learning** techniques
 - 🔭 Working on **AI-powered automation tools** for real-world applications
+- 💼 Open to **full-time opportunities** in AI/ML and Full Stack Development
 - 👯 Looking to collaborate on **open-source AI/ML projects**
 - 💬 Ask me about **Python, FastAPI, React, and AI development**
 

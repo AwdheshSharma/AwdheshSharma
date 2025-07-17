@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Awadhesh Sharma!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computer+Science+Engineering+Graduate;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=445&lines=Computer+Science+Engineering+Graduate;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
